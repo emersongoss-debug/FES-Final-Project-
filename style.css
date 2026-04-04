@@ -168,11 +168,11 @@ header .row {
 }
 
 .header__content {
-    width:vw(40%);
+    width:40%;
 }
 
 .header__img {
-    width :vw(60%);
+    width:60%;
 }
 /*
 
