@@ -65,6 +65,14 @@ nav {
     gap: 32px;
 }
 
+.btn__signup {
+    background-color:#6415ff;
+    color:#fff !important;
+    padding: 10px 24px;
+    border-radius: 500px;
+    font-weight: 600;
+}
+
 .btn__menu {
     display: none;
     background: transparent;
@@ -254,7 +262,10 @@ MOBILE RESPONSIVENESS
     }
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1280px){
+    .nav-links {
+        display: none;
+    }
 
     .btn__menu {
         display: block;
