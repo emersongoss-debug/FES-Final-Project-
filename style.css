@@ -167,6 +167,13 @@ header .row {
     justify-content: space-between;
 }
 
+.header__content {
+    width:vw(40%);
+}
+
+.header__img {
+    width :vw(60%);
+}
 /*
 
 FEATURES
